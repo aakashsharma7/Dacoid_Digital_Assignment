@@ -16,6 +16,7 @@ A modern, feature-rich dynamic calendar application built with Next.js, React.js
 - Language: TypeScript for type-safe development.
 
 # Installation
+
 Clone the repository:
 
 # bash
@@ -35,9 +36,9 @@ npm run dev
 # or
 yarn dev
 
-# Open the application in your browser
+# Deployed Project Link
 
-http://localhost:3000
+https://dacoid-digital-assignment-taupe.vercel.app/
 
 # Usage
 
